@@ -2,11 +2,30 @@
 <yml_catalog date="2025-01-08 13:46">
   <shop>
     <offers>
-      <offer id="1234">
+      <!-- Брянск -->
+      <offer id="1235">
         <youlaCategoryId>4</youlaCategoryId>
         <youlaSubCategoryId>408</youlaSubCategoryId>
         <krovati_tip>9416</krovati_tip>
-        <address>Москва, ул. Ремизова, д. 7</address>
+        <address>Брянск, ул. Афансасьева</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>htt
+ps://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Иваново -->
+      <offer id="1236">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Иваново, ул. Огнеборцев</address>
         <price>10000</price>
         <phone>8 927 888-16-17</phone>
         <name>Кровать двуспальная</name>
@@ -15,9 +34,245 @@
         <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
         <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
         <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
-        <description>
-          <![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]>
-        </description>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Магнитогорск -->
+      <offer id="1237">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Магнитогорск, ул. Жукова</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Архангельск -->
+      <offer id="1238">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Архангельск, ул. Галушина</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Смоленск -->
+      <offer id="1239">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Смоленск, ул. Оршанская</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Волжский -->
+      <offer id="1240">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Волжский, ул. 40 лет Победы</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Череповец -->
+      <offer id="1241">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Череповец, ул. Юбилейная</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Орёл -->
+      <offer id="1242">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Орёл, ул. Космонавтов</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Владимир -->
+      <offer id="1243">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Владимир, ул. Фестивальная</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Саранск -->
+      <offer id="1244">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Саранск, ул. Гожувская</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Мурманск -->
+      <offer id="1245">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Мурманск, ул. Старостина</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Сургут -->
+      <offer id="1246">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Сургут, ул. Лермонтова</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Стерлитамак -->
+      <offer id="1247">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Стерлитамак, ул. Пригородная</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Новороссийск -->
+      <offer id="1248">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Новороссийск, ул. Алексеева</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Нижнекамск -->
+      <offer id="1249">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Нижнекамск, ул. Юности</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
+      </offer>
+
+      <!-- Дзержинск -->
+      <offer id="1250">
+        <youlaCategoryId>4</youlaCategoryId>
+        <youlaSubCategoryId>408</youlaSubCategoryId>
+        <krovati_tip>9416</krovati_tip>
+        <address>Дзержинск, ул. Галкина</address>
+        <price>10000</price>
+        <phone>8 927 888-16-17</phone>
+        <name>Кровать двуспальная</name>
+        <managerName>Менеджер</managerName>
+        <picture>https://i.ibb.co/2YCtQ0tZ/1.jpg</picture>
+        <picture>https://i.ibb.co/FLTyL5HN/2.jpg</picture>
+        <picture>https://i.ibb.co/sp4rCqfr/3.jpg</picture>
+        <picture>https://i.ibb.co/x8SRMzPP/4.jpg</picture>
+        <description><![CDATA[Кровать двуспальная из массива берёзы\r\nКровать двуспальная из дерева в скандинавском стиле IKEA (ИКЕЯ).\r\n\r\nРАЗМЕРЫ: 120х200, 140х200, 160х200, 180х200, 200х200.\r\nВозможны другие размеры.\r\n\r\nЦВЕТА: берёза (без покраски или лак), белый, венге, серый, розовый.\r\n\r\nВОЗМОЖНАЯ КОМПЛЕКТАЦИЯ:\r\n- без ящиков;\r\n- ящики на колесиках (2 или 4 шт.)\r\n\r\nОплата при получении.\r\nГарантия на кровать 18 месяцев.\r\nРеечное основание включено.\r\nДоставка по адресу.\r\n\r\nЗвоните или пишите по любым вопросам.]]></description>
       </offer>
     </offers>
   </shop>
